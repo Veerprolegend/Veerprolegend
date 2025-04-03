@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anyday
 - 📫 How to reach me (No way)
 - 😄 Pronouns: Veer
-- ⚡ Fun fact: V/A
+- ⚡ Fun fact: Coding is the best thing in the world
 
 <!---
 Veerprolegend/Veerprolegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
